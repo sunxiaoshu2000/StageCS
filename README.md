@@ -63,9 +63,7 @@ For each file, each line in the uncompressed file represents one function. Here 
 
 | Programming Language | Training |  Dev   |  Test  |
 | :------------------- | :------: | :----: | :----: |
-| Python               | 251,820  | 13,914 | 14,918 |
 | Java                 | 164,923  | 5,183  | 10,955 |
-| JavaScript           |  58,025  | 3,885  | 3,291  |
 
 
 ## Two Stage Training of StageCS
